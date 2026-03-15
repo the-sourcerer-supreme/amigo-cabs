@@ -226,3 +226,12 @@ Amigo-cabs/
 - Improved ride matching
 
 - Driver mobile application
+
+#Source Code Availability
+
+The full source code for **Amigo Cabs** is not included in this repository.
+
+This repository is intended to showcase the application's architecture, screenshots, and demo video for portfolio and evaluation purposes.
+
+If you are a recruiter, collaborator, or reviewer interested in the complete implementation, please feel free to contact me.
+
